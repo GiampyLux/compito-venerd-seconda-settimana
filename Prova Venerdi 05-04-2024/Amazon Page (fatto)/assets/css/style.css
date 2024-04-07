@@ -1,0 +1,122 @@
+/*HEADER*/
+body {
+    font-family: "Arial", "Helvetica", sans-serif;
+    font-size: 1.5vw;
+}
+.logobg {
+  background-color: #222F3F;
+}
+
+.logouno {
+    padding: 2vw;
+    width: 15vw;
+}
+
+.navbg  {
+    padding: 1vw;
+    background-color: #364759;
+    text-decoration: none;
+}
+
+.nodec{
+    text-decoration: none;
+    color: white;
+    
+}
+
+li{
+    display: inline;
+    padding-left: 1.3vw;
+}
+
+/* FINE HEADER */
+
+
+/* MAIN */ 
+
+
+#sfondogrigio {
+    padding: 2vw;
+    background-color: #E9EDEE;
+}
+
+#arancionebg{
+    text-align: center;
+    background-color: #F56600;
+    padding: 0.5vw;
+    
+    
+}
+
+#bg1 {text-align: center;
+    margin-top: 3vw;
+    background-image: url(../images/bg-image.png);
+    background-size: 100%;
+    padding: 2vw;
+    }
+
+#bg1 p {
+    color: white;
+    padding-top: 1vw;
+}
+
+.p1 {
+    font-size: 3vw;
+    margin-bottom: 1vw;
+}
+
+#sfondobianco {
+margin-top: 2vw;
+background-color: white;
+padding: 1vw;
+text-align: center;
+
+}
+
+#p2 {
+    text-align: left;
+}
+
+.shopnow {
+    color: #177b85;
+    text-decoration: none;
+    padding-left: 1vw;
+    font-size: 1vw;
+    font-weight: bold;
+}
+
+
+#immaginibianco{
+    margin-top: 2vw;
+    background-color: white;
+    padding: 1vw;
+    text-align: left;
+
+}
+
+.immagini {
+    text-align: center;
+    margin: 1%;
+    width: 22%;
+    height: 23vw;
+    border-radius: 1vw;
+}
+
+.immagine2 {
+    width: 100%;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+/* fine main */
+
+/* footer */
+footer div {
+    text-align: center;
+    padding: 2rem
+}
+
+footer a {
+    color: white;
+    font-size: 1vw;
+}
